@@ -1,0 +1,15 @@
+# ビルド生成物
+/build/
+
+# IDE files (Eclipse/IntelliJ)
+.classpath
+.project
+.settings/
+
+# Gradle generated files
+.gradle/
+*.iml
+.DS_Store
+
+# Log files
+*.log
