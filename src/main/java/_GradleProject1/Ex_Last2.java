@@ -11,6 +11,8 @@ import java.util.List;
 public class Ex_Last2 {
 	
 	public static void main(String[] args) {
+		//pushされているかどうか用のコメント
+		
 		/*-----------------------------------------------------------------
 		 * WorkingResult.csv(１ヶ月の労働実績)を読み込んで１ヶ月の給与の総額を算出して出力
 		 * 
